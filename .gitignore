@@ -1,5 +1,7 @@
 __pycache__/
 code/routines/keys.py
+data/dep_followers.csv
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
