@@ -1,0 +1,514 @@
+id_dep,name,party,UF,twitter_account
+1,Deputado Abílio Santana,PL,BA,AbilioSantana_
+2,Deputado Abou Anni,PSL,SP,abou_anni
+3,Deputado Acácio Favacho,PROS,AP,AcacioFavacho
+4,Deputado Adolfo Viana,PSDB,BA,AdolfoViana_
+5,Deputada Adriana Ventura,NOVO,SP,adriventurasp
+6,Deputado Adriano Do Baldy,PP,GO,adrianodobaldy
+7,Deputado Aécio Neves,PSDB,MG,AecioNeves
+8,Deputado Aelton Freitas,PL,MG,aeltonfreitasmg
+9,Deputado Afonso Florence,PT,BA,AfonsoFlorence
+10,Deputado Afonso Hamm,PP,RS,DepAfonsoHamm
+11,Deputado Afonso Motta,PDT,RS,afonso_motta
+12,Deputado Aguinaldo Ribeiro,PP,PB,depaguinaldo11
+13,Deputado Airton Faleiro,PT,PA,FaleiroAirton
+14,Deputado Aj Albuquerque,PP,CE,no-twitter
+15,Deputado Alan Rick,DEM,AC,Alan_Rick
+16,Deputado Alceu Moreira,MDB,RS,Alceu_Moreira
+17,Deputado Alcides Rodrigues,PATRIOTA,GO,no-twitter
+18,Deputado Alencar Santana Braga,PT,SP,AlencarBraga13
+19,Deputada Alê Silva,PSL,MG,alesilva_38
+20,Deputado Alessandro Molon,PSB,RJ,alessandromolon
+21,Deputado Alexandre Frota,PSDB,SP,77_frota
+22,Deputado Alexandre Leite,DEM,SP,lexandreleite
+23,Deputado Alexandre Padilha,PT,SP,padilhando
+24,Deputado Alexis Fonteyne,NOVO,SP,AlexisFonteyne
+25,Deputado Alex Manente,CIDADANIA,SP,AlexManente23
+26,Deputado Alex Santana,PDT,BA,depalexsantana
+27,Deputada Alice Portugal,PCdoB,BA,Alice_Portugal
+28,Deputado Aliel Machado,PSB,PR,alielmachado
+29,Deputada Aline Gurgel,REPUBLICANOS,AP,dep_alinegurgel
+30,Deputada Aline Sleutjes,PSL,PR,AlineSleutjes
+31,Deputado Altineu Côrtes,PL,RJ,Altineu
+32,Deputado Aluisio Mendes,PSC,MA,AluisioMendesMA
+33,Deputado Amaro Neto,REPUBLICANOS,ES,amaronetotv
+34,Deputado André Abdon,PP,AP,no-twitter
+35,Deputado André De Paula,PSD,PE,no-twitter
+36,Deputado André Ferreira,PSC,PE,aferreira2020
+37,Deputado André Figueiredo,PDT,CE,andrepdt12
+38,Deputado André Fufuca,PP,MA,DepAndreFufuca
+39,Deputado André Janones,AVANTE,MG,AndreJanonesAdv
+40,Deputada Angela Amin,PP,SC,angelaamin11
+41,Deputado Antonio Brito,PSD,BA,no-twitter
+42,Deputado Arlindo Chinaglia,PT,SP,achinaglia
+43,Deputado Arnaldo Jardim,CIDADANIA,SP,ArnaldoJardim
+44,Deputado Aroldo Martins,REPUBLICANOS,PR,aroldomartins
+45,Deputado Arthur Lira,PP,AL,ArthurLira_
+46,Deputado Arthur Oliveira Maia,DEM,BA,DepArthurMaia
+47,Deputado Átila Lins,PP,AM,no-twitter
+48,Deputado Átila Lira,PP,PI,deputadoatila
+49,Deputado Augusto Coutinho,SOLIDARIEDADE,PE,dep_acoutinho
+50,Deputada Áurea Carolina,PSOL,MG,aureacarolinax
+51,Deputado Aureo Ribeiro,SOLIDARIEDADE,RJ,AureoRibeiroRJ
+52,Deputado Bacelar,PODE,BA,DeputadoBacelar
+53,Deputado Baleia Rossi,MDB,SP,Baleia_Rossi
+54,Deputada Benedita Da Silva,PT,RJ,dasilvabenedita
+55,Deputado Benes Leocádio,REPUBLICANOS,RN,benesleocadiorn
+56,Deputado Beto Faro,PT,PA,BetoFaroPT
+57,Deputado Beto Pereira,PSDB,MS,betopereirams
+58,Deputado Beto Rosado,PP,RN,BetoRosado
+59,Deputada Bia Cavassa,PSDB,MS,BiaCavassa
+60,Deputada Bia Kicis,PSL,DF,Biakicis
+61,Deputado Bibo Nunes,PSL,RS,bibonunes1
+62,Deputado Bilac Pinto,DEM,MG,depbilacpinto
+63,Deputado Bira Do Pindaré,PSB,MA,BiradoPindare
+64,Deputado Boca Aberta,PROS,PR,BocaAbertaOf
+65,Deputado Bohn Gass,PT,RS,BohnGass
+66,Deputado Bosco Costa,PL,SE,BoscoCosta_SE
+67,Deputado Bosco Saraiva,SOLIDARIEDADE,AM,boscosaraiva
+68,Deputado Bozzella,PSL,SP,bozzellajr
+69,Deputada Bruna Furlan,PSDB,SP,DepBrunaFurlan
+70,Deputado Cacá Leão,PP,BA,CacaLeao
+71,Deputado Camilo Capiberibe,PSB,AP,CamiloPSB
+72,Deputado Capitão Alberto Neto,REPUBLICANOS,AM,capalbertoneto
+73,Deputado Capitão Augusto,PL,SP,capitaoXaugusto
+74,Deputado Capitão Fábio Abreu,PL,PI,fabioabreuofc
+75,Deputado Capitão Wagner,PROS,CE,capitao_wagner
+76,Deputada Carla Dickson,PROS,RN,carladicksonrn
+77,Deputada Carla Zambelli,PSL,SP,CarlaZambelli38
+78,Deputado Carlos Bezerra,MDB,MT,no-twitter
+79,Deputado Carlos Chiodini,MDB,SC,carloschiodini
+80,Deputado Carlos Gomes,REPUBLICANOS,RS,carlosgomesdep
+81,Deputado Carlos Henrique Gaguim,DEM,TO,Carlos_Gaguim
+82,Deputado Carlos Jordy,PSL,RJ,carlosjordy
+83,Deputado Carlos Sampaio,PSDB,SP,carlossampaio_
+84,Deputado Carlos Veras,PT,PE,carlosveraspt
+85,Deputado Carlos Zarattini,PT,SP,CarlosZarattini
+86,Deputada Carmen Zanotto,CIDADANIA,SC,carmen_zanotto
+87,Deputada Caroline De Toni,PSL,SC,CarolDeToni
+88,Deputado Cássio Andrade,PSB,PA,cassio_40
+89,Deputada Celina Leão,PP,DF,celinaleao
+90,Deputado Célio Moura,PT,TO,CelioMouraTO
+91,Deputado Célio Silveira,PSDB,GO,deputadoCelio
+92,Deputado Célio Studart,PV,CE,CelioStudart
+93,Deputado Celso Maldaner,MDB,SC,maldaner_celso
+94,Deputado Celso Russomanno,REPUBLICANOS,SP,celsorussomanno
+95,Deputado Celso Sabino,PSDB,PA,depcelsosabino
+96,Deputado Cezinha De Madureira,PSD,SP,Czmadureira
+97,Deputado Charles Fernandes,PSD,BA,Charles_Federal
+98,Deputado Charlles Evangelista,PSL,MG,charllesevg
+99,Deputado Chico D'angelo,PDT,RJ,chico_dangelo
+100,Deputado Chiquinho Brazão,AVANTE,RJ,BrazaoChiquinho
+101,Deputada Christiane De Souza Yared,PL,PR,ChristianeYared
+102,Deputado Christino Aureo,PP,RJ,christinoaureo
+103,Deputada Chris Tonietto,PSL,RJ,ToniettoChris
+104,Deputada Clarissa Garotinho,PROS,RJ,dep_clarissa
+105,Deputado Claudio Cajado,PP,BA,deputadocajado
+106,Deputado Cleber Verde,REPUBLICANOS,MA,CleberVerde10
+107,Deputado Coronel Armando,PSL,SC,cel_armando
+108,Deputado Coronel Chrisóstomo,PSL,RO,DepChrisostomo
+109,Deputado Coronel Tadeu,PSL,SP,CoronelTadeu
+110,Deputado Cristiano Vale,PL,PA,no-twitter
+111,Deputado Dagoberto Nogueira,PDT,MS,dagobertopdt
+112,Deputado Damião Feliciano,PDT,PB,Drdamiaof
+113,Deputada Daniela Do Waguinho,MDB,RJ,DanielaWaguinho
+114,Deputado Daniel Almeida,PCdoB,BA,Daniel_PCdoB
+115,Deputado Daniel Coelho,CIDADANIA,PE,DanielCoelho23
+116,Deputado Daniel Freitas,PSL,SC,DFDanielFreitas
+117,Deputado Daniel Silveira,PSL,RJ,DanielPMERJ
+118,Deputado Daniel Trzeciak,PSDB,RS,TrzeciakDaniel
+119,Deputado Danilo Cabral,PSB,PE,danilocabral__
+120,Deputado Danilo Forte,PSDB,CE,DepDaniloForte
+121,Deputado Danrlei De Deus Hinterholz,PSD,RS,no-twitter
+122,Deputado Darci De Matos,PSD,SC,depdarcidematos
+123,Deputado David Miranda,PSOL,RJ,davidmirandario
+124,Deputado David Soares,DEM,SP,davidbrsoares
+125,Deputado Da Vitoria,CIDADANIA,ES,depdavitoria
+126,Deputado Delegado Antônio Furtado,PSL,RJ,DelegadoFurtado
+127,Deputado Delegado Éder Mauro,PSD,PA,EderMauroPA
+128,Deputado Delegado Marcelo Freitas,PSL,MG,DelegadoFreitas
+129,Deputado Delegado Pablo,PSL,AM,DelegadoPablo_
+130,Deputado Delegado Waldir,PSL,GO,delegado_waldir
+131,Deputado Denis Bezerra,PSB,CE,denisbezerra
+132,Deputado Diego Andrade,PSD,MG,diegoandrade_mg
+133,Deputado Diego Garcia,PODE,PR,diegogarciapr
+134,Deputado Dimas Fabiano,PP,MG,depdimasfabiano
+135,Deputado Domingos Neto,PSD,CE,no-twitter
+136,Deputado Domingos Sávio,PSDB,MG,DomingosSavioMG
+137,Deputado Dr. Frederico,PATRIOTA,MG,DrFredericoMG
+138,Deputado Dr. Gonçalo,REPUBLICANOS,MA,no-twitter
+139,Deputado Dr. Jaziel,PL,CE,jaziel_dr
+140,Deputado Dr. Leonardo,SOLIDARIEDADE,MT,DrLeonardomt
+141,Deputado Dr. Luiz Antonio Teixeira Jr.,PP,RJ,Doutorluizinhot
+142,Deputado Dr. Luiz Ovando,PSL,MS,drluizovando
+143,Deputado Dr. Zacharias Calil,DEM,GO,zachariascalil
+144,Deputada Dra. Soraya Manato,PSL,ES,DraManato
+145,Deputada Dra. Vanda Milani,SOLIDARIEDADE,AC,Vandamilani1
+146,Deputada Dulce Miranda,MDB,TO,dulcemiranda_to
+147,Deputado Edilázio Júnior,PSD,MA,EdilazioJunior_
+148,Deputado Edio Lopes,PL,RR,ediolopes
+149,Deputada Edna Henrique,PSDB,PB,no-twitter
+150,Deputado Eduardo Barbosa,PSDB,MG,eduardobarbosa_
+151,Deputado Eduardo Bismarck,PDT,CE,eduardobismarck
+152,Deputado Eduardo Bolsonaro,PSL,SP,BolsonaroSP
+153,Deputado Eduardo Costa,PTB,PA,dep_eduardo
+154,Deputado Eduardo Cury,PSDB,SP,Eduardo_Cury
+155,Deputado Eduardo Da Fonte,PP,PE,eduardodafonte
+156,Deputado Efraim Filho,DEM,PB,efraimfilho
+157,Deputada Elcione Barbalho,MDB,PA,elcionepmdb
+158,Deputado Elias Vaz,PSB,GO,EliasVazGyn
+159,Deputado Eli Borges,SOLIDARIEDADE,TO,elidiasborges
+160,Deputado Eli Corrêa Filho,DEM,SP,no-twitter
+161,Deputado Elmar Nascimento,DEM,BA,ElmarNascimento
+162,Deputado Emanuel Pinheiro Neto,PTB,MT,emanuelzinhomt
+163,Deputado Emidinho Madeira,PSB,MG,no-twitter
+164,Deputado Enio Verri,PT,PR,enioverri
+165,Deputado Enrico Misasi,PV,SP,enricomisasi
+166,Deputada Erika Kokay,PT,DF,erikakokay
+167,Deputado Eros Biondini,PROS,MG,erosbiondini
+168,Deputado Euclydes Pettersen,PSC,MG,EuclydesPetter
+169,Deputado Evair Vieira De Melo,PP,ES,EvairdeMelo
+170,Deputado Expedito Netto,PSD,RO,netto_expedito
+171,Deputado Fábio Henrique,PDT,SE,FabioHenriqueSE
+172,Deputado Fábio Mitidieri,PSD,SE,depfmitidieri
+173,Deputado Fábio Ramalho,MDB,MG,_FabinhoRamalho
+174,Deputado Fabio Reis,MDB,SE,fabioreis1515
+175,Deputado Fabio Schiochet,PSL,SC,fabio_schiochet
+176,Deputado Fábio Trad,PSD,MS,f_trad
+177,Deputado Fausto Pinato,PP,SP,Fausto_Pinato
+178,Deputado Felício Laterça,PSL,RJ,FederalFelicio
+179,Deputado Felipe Carreras,PSB,PE,felipecarreras
+180,Deputado Felipe Francischini,PSL,PR,FFrancischini_
+181,Deputado Felipe Rigoni,PSB,ES,rigoni_felipe
+182,Deputado Félix Mendonça Júnior,PDT,BA,FelixMendoncaJr
+183,Deputada Fernanda Melchionna,PSOL,RS,fernandapsol
+184,Deputado Fernando Coelho Filho,DEM,PE,fernandofilhope
+185,Deputado Fernando Monteiro,PP,PE,fmonteiroPE
+186,Deputado Fernando Rodolfo,PL,PE,depfernandor
+187,Deputado Filipe Barros,PSL,PR,filipebarrost
+188,Deputada Flávia Arruda,PL,DF,FlaviaArrudaDF
+189,Deputada Flávia Morais,PDT,GO,depflaviamorais
+190,Deputado Flaviano Melo,MDB,AC,Flaviano_Melo
+191,Deputado Flávio Nogueira,PDT,PI,flavionoguera
+192,Deputada Flordelis,PSD,RJ,depflordelis
+193,Deputado Francisco Jr.,PSD,GO,franciscojr_go
+194,Deputado Franco Cartafina,PP,MG,FrancoCartafina
+195,Deputado Fred Costa,PATRIOTA,MG,FredCostaDep
+196,Deputado Frei Anastacio Ribeiro,PT,PB,freianastaciopt
+197,Deputado Gastão Vieira,PROS,MA,no-twitter
+198,Deputado Gelson Azevedo,PL,RJ,GelsonAzevedoRJ
+199,Deputado Genecias Noronha,SOLIDARIEDADE,CE,DepGenecias
+200,Deputado General Girão,PSL,RN,GeneralGirao
+201,Deputado General Peternelli,PSL,SP,GenPeternelli
+202,Deputado Geninho Zuliani,DEM,SP,geninhozuliani
+203,Deputada Geovania De Sá,PSDB,SC,geovaniadesa
+204,Deputado Gervásio Maia,PSB,PB,gervasiomaia
+205,Deputado Giacobo,PL,PR,fernandogiacobo
+206,Deputado Gilberto Abramo,REPUBLICANOS,MG,gilbertoabramo
+207,Deputado Gilberto Nascimento,PSC,SP,GilbertoPSC20
+208,Deputado Gil Cutrim,PDT,MA,gilcutrim
+209,Deputado Gilson Marques,NOVO,SC,gilsonmarques30
+210,Deputado Giovani Cherini,PL,RS,giovanicherini
+211,Deputado Giovani Feltes,MDB,RS,GiovaniFeltes
+212,Deputado Glauber Braga,PSOL,RJ,Glauber_Braga
+213,Deputado Glaustin Da Fokus,PSC,GO,glaustindafokus
+214,Deputada Gleisi Hoffmann,PT,PR,gleisi
+215,Deputado Gonzaga Patriota,PSB,PE,ponto4000recife
+216,Deputada Gorete Pereira,PL,CE,no-twitter
+217,Deputada Greyce Elias,AVANTE,MG,greyceelias
+218,Deputado Guiga Peixoto,PSL,SP,zeguilherme_10
+219,Deputado Guilherme Derrite,PP,SP,capitaoderrite
+220,Deputado Guilherme Mussi,PP,SP,GuilhermeMussi
+221,Deputado Gurgel,PSL,RJ,depgurgel
+222,Deputado Gustavo Fruet,PDT,PR,gustavofruet
+223,Deputado Gustinho Ribeiro,SOLIDARIEDADE,SE,GustinhoRibeiro
+224,Deputado Gutemberg Reis,MDB,RJ,_GutembergReis
+225,Deputado Haroldo Cathedral,PSD,RR,deputadoharoldo
+226,Deputado Heitor Freire,PSL,CE,HeitorFreireCE
+227,Deputado Heitor Schuch,PSB,RS,HeitorSchuch
+228,Deputado Helder Salomão,PT,ES,heldersalomao
+229,Deputado Hélio Costa,REPUBLICANOS,SC,no-twitter
+230,Deputado Hélio Leite,DEM,PA,h_leite
+231,Deputado Helio Lopes,PSL,RJ,depheliolopes
+232,Deputado Henrique Fontana,PT,RS,HenriqueFontana
+233,Deputado Hercílio Coelho Diniz,MDB,MG,herciliodiniz
+234,Deputado Herculano Passos,MDB,SP,herculanopassos
+235,Deputado Hermes Parcianello,MDB,PR,HermesLaranja
+236,Deputado Hildo Rocha,MDB,MA,RochaHildorocha
+237,Deputado Hiran Gonçalves,PP,RR,deputadohiran
+238,Deputado Hugo Leal,PSD,RJ,depHugoLeal
+239,Deputado Hugo Motta,REPUBLICANOS,PB,HugoMottaPB
+240,Deputado Idilvan Alencar,PDT,CE,IdilvanAlencar
+241,Deputado Igor Kannário,DEM,BA,Igor_Kannario
+242,Deputado Igor Timo,PODE,MG,oficialigortimo
+243,Deputada Iracema Portella,PP,PI,iracemaportela
+244,Deputado Isnaldo Bulhões Jr.,MDB,AL,bulhoesjr
+245,Deputado Ivan Valente,PSOL,SP,IvanValente
+246,Deputada Jandira Feghali,PCdoB,RJ,jandira_feghali
+247,Deputada Jaqueline Cassol,PP,RO,jqcassol
+248,Deputado Jefferson Campos,PSB,SP,DepJefferson
+249,Deputado Jerônimo Goergen,PP,RS,jeronimogoergen
+250,Deputada Jéssica Sales,MDB,AC,no-twitter
+251,Deputado Jesus Sérgio,PDT,AC,jesussergioac
+252,Deputado Jhonatan De Jesus,REPUBLICANOS,RR,jhonatan_djesus
+253,Deputado João Campos,REPUBLICANOS,GO,joaocamposdep
+254,Deputado João Carlos Bacelar,PL,BA,no-twitter
+255,Deputado João Daniel,PT,SE,depjoaodanielpt
+256,Deputado João Maia,PL,RN,depjoaomaia
+257,Deputado João Marcelo Souza,MDB,MA,no-twitter
+258,Deputado João Roma,REPUBLICANOS,BA,joaoromaneto
+259,Deputado Joaquim Passarinho,PSD,PA,depjpassarinho
+260,Deputada Joenia Wapichana,REDE,RR,JoeniaWapichana
+261,Deputada Joice Hasselmann,PSL,SP,joicehasselmann
+262,Deputado Jorge Braz,REPUBLICANOS,RJ,Jorge_Braz
+263,Deputado Jorge Solla,PT,BA,depjorgesolla
+264,Deputado José Airton Félix Cirilo,PT,CE,JoseAirtonPT
+265,Deputado José Guimarães,PT,CE,guimaraes13PT
+266,Deputado Joseildo Ramos,PT,BA,joseildoramos
+267,Deputado Jose Mario Schreiner,DEM,GO,SchreinerJose
+268,Deputado José Medeiros,PODE,MT,JoseMedeirosMT
+269,Deputado José Nelto,PODE,GO,depjosenelto
+270,Deputado José Nunes,PSD,BA,JoseNunesDep
+271,Deputado José Priante,MDB,PA,Priante15
+272,Deputado José Ricardo,PT,AM,ZeRicardoAM
+273,Deputado José Rocha,PL,BA,dep_joserocha
+274,Deputado Josimar Maranhãozinho,PL,MA,josimarPL22
+275,Deputado Josivaldo Jp,PODE,MA,no-twitter
+276,Deputado Juarez Costa,MDB,MT,no-twitter
+277,Deputado Julian Lemos,PSL,PB,JulianLemosopb1
+278,Deputado Júlio Cesar,PSD,PI,DepJulioCesarPI
+279,Deputado Julio Cesar Ribeiro,REPUBLICANOS,DF,JulioCesarRib
+280,Deputado Júlio Delgado,PSB,MG,depjuliodelgado
+281,Deputado Juninho Do Pneu,DEM,RJ,JuninhodoPneu
+282,Deputado Junio Amaral,PSL,MG,cabojunioamaral
+283,Deputado Júnior Ferrari,PSD,PA,no-twitter
+284,Deputado Junior Lourenço,PL,MA,junior_lourenco
+285,Deputado Júnior Mano,PL,CE,JuniorManoDep
+286,Deputado Juscelino Filho,DEM,MA,DepJuscelino
+287,Deputado Kim Kataguiri,DEM,SP,KimKataguiri
+288,Deputado Laercio Oliveira,PP,SE,LaercioFederal
+289,Deputado Lafayette De Andrada,REPUBLICANOS,MG,lafayetteandrad
+290,Deputada Lauriete,PSC,ES,laurietecantora
+291,Deputada Leandre,PV,PR,leandredaideal
+292,Deputada Leda Sadala,AVANTE,AP,LedaSadala
+293,Deputado Leo De Brito,PT,AC,no-twitter
+294,Deputado Léo Moraes,PODE,RO,Dep_LeoMoraes
+295,Deputado Léo Motta,PSL,MG,leomotta_ofc
+296,Deputado Leonardo Monteiro,PT,MG,depleomonteiro
+297,Deputado Leônidas Cristino,PDT,CE,joseleonidas
+298,Deputado Leur Lomanto Júnior,DEM,BA,LeurLomantoJr
+299,Deputada Lídice Da Mata,PSB,BA,lidicedamata
+300,Deputado Lincoln Portela,PL,MG,lincoln_portela
+301,Deputada Liziane Bayer,PSB,RS,LizianeBayer
+302,Deputado Loester Trutis,PSL,MS,LTrutis
+303,Deputado Lourival Gomes,PSL,RJ,LourivalGomesrj
+304,Deputado Lucas Gonzalez,NOVO,MG,lucasvgonzalez
+305,Deputado Lucas Redecker,PSDB,RS,LucasRedecker
+306,Deputado Lucas Vergilio,SOLIDARIEDADE,GO,LucasVergilioGO
+307,Deputado Luciano Bivar,PSL,PE,Luciano_Bivar
+308,Deputado Luciano Ducci,PSB,PR,LucianoDucci
+309,Deputado Lucio Mosquini,MDB,RO,luciomosquini
+310,Deputada Luisa Canziani,PTB,PR,luisa_canziani
+311,Deputado Luis Miranda,DEM,DF,LuisMirandaUSA
+312,Deputado Luis Tibé,AVANTE,MG,LuisTibeOficial
+313,Deputada Luiza Erundina,PSOL,SP,luizaerundina
+314,Deputado Luiz Antônio Corrêa,PL,RJ,depluizantonio
+315,Deputado Luizão Goulart,REPUBLICANOS,PR,luizaogoulart
+316,Deputado Luiz Carlos,PSDB,AP,DepLuizCarlos
+317,Deputado Luiz Carlos Motta,PL,SP,lcm_motta
+318,Deputado Luiz Lima,PSL,RJ,Oficialluizlima
+319,Deputado Luiz Nishimori,PL,PR,LuizNishimori
+320,Deputado Luiz Philippe De Orleans E Bragança,PSL,SP,lpbragancabr
+321,Deputada Magda Mofatto,PL,GO,Magdamofatto
+322,Deputada Major Fabiana,PSL,RJ,majorfabianadep
+323,Deputada Mara Rocha,PSDB,AC,mararocha4545
+324,Deputado Marcelo Álvaro Antônio,PSL,MG,no-twitter
+325,Deputado Marcelo Aro,PP,MG,marceloaro
+326,Deputado Marcelo Brum,PSL,RS,Marcelobrumdep
+327,Deputado Marcelo Calero,CIDADANIA,RJ,caleromarcelo
+328,Deputado Marcelo Freixo,PSOL,RJ,MarceloFreixo
+329,Deputado Marcelo Moraes,PTB,RS,no-twitter
+330,Deputado Marcelo Nilo,PSB,BA,depmarcelonilo
+331,Deputado Marcelo Ramos,PL,AM,marceloramosam
+332,Deputado Marcel Van Hattem,NOVO,RS,marcelvanhattem
+333,Deputado Marcio Alvino,PL,SP,AlvinoMarcio
+334,Deputado Márcio Biolchi,MDB,RS,marciobiolchi
+335,Deputado Márcio Labre,PSL,RJ,marciolabre
+336,Deputado Márcio Marinho,REPUBLICANOS,BA,dpmarciomarinho
+337,Deputado Marco Bertaiolli,PSD,SP,MarcoBertaiolli
+338,Deputado Marcon,PT,RS,depmarcon
+339,Deputado Marcos Aurélio Sampaio,MDB,PI,MarcosA_Sampaio
+340,Deputado Marcos Pereira,REPUBLICANOS,SP,marcospereira04
+341,Deputada Margarete Coelho,PP,PI,MargaretCoelho
+342,Deputada Maria Do Rosário,PT,RS,mariadorosario
+343,Deputada Mariana Carvalho,PSDB,RO,DeputadaMariana
+344,Deputada Maria Rosas,REPUBLICANOS,SP,mariarosassp
+345,Deputada Marília Arraes,PT,PE,MariliaArraes
+346,Deputada Marina Santos,SOLIDARIEDADE,PI,no-twitter
+347,Deputado Mário Heringer,PDT,MG,mario_heringer
+348,Deputado Mário Negromonte Jr.,PP,BA,JrNegromonte
+349,Deputado Marlon Santos,PDT,RS,deputado_marlon
+350,Deputado Marreca Filho,PATRIOTA,MA,depmarrecafilho
+351,Deputado Marx Beltrão,PSD,AL,marxbeltrao
+352,Deputado Maurício Dziedricki,PTB,RS,mauricioptbrs
+353,Deputado Mauro Benevides Filho,PDT,CE,mauro_bfilho
+354,Deputado Mauro Lopes,MDB,MG,depmaurolopes
+355,Deputado Mauro Nazif,PSB,RO,drmauronazif
+356,Deputado Merlong Solano,PT,PI,MerlongSolano
+357,Deputado Miguel Lombardi,PL,SP,DMiguellombardi
+358,Deputado Milton Coelho,PSB,PE,no-twitter
+359,Deputado Milton Vieira,REPUBLICANOS,SP,MiltonVieiraOfc
+360,Deputado Misael Varella,PSD,MG,no-twitter
+361,Deputado Moses Rodrigues,MDB,CE,DepFederalMoses
+362,Deputada Natália Bonavides,PT,RN,natbonavides
+363,Deputado Nelson Barbudo,PSL,MT,nelsonbarbudo
+364,Deputado Nereu Crispim,PSL,RS,nereucrispim
+365,Deputado Neri Geller,PP,MT,NeriGeller
+366,Deputado Neucimar Fraga,PSD,ES,no-twitter
+367,Deputado Newton Cardoso Jr,MDB,MG,newton1510
+368,Deputado Nicoletti,PSL,RR,depnicoletti
+369,Deputado Nilson Pinto,PSDB,PA,DepNilsonPinto
+370,Deputado Nilto Tatto,PT,SP,NiltoTatto
+371,Deputado Nivaldo Albuquerque,PTB,AL,NivaldoAlbuque
+372,Deputada Norma Ayub,DEM,ES,no-twitter
+373,Deputado Odair Cunha,PT,MG,odaircunhamg
+374,Deputado Olival Marques,DEM,PA,OLIVALMARQUES
+375,Deputado Orlando Silva,PCdoB,SP,orlandosilva
+376,Deputado Osires Damaso,PSC,TO,deposiresdamaso
+377,Deputado Osmar Terra,MDB,RS,OsmarTerra
+378,Deputado Ossesio Silva,REPUBLICANOS,PE,OssesioSilva
+379,Deputado Otoni De Paula,PSC,RJ,OtoniDepFederal
+380,Deputado Ottaci Nascimento,SOLIDARIEDADE,RR,no-twitter
+381,Deputado Otto Alencar Filho,PSD,BA,OttoAlencarFilh
+382,Deputado Padre João,PT,MG,dep_padrejoao
+383,Deputado Pastor Eurico,PATRIOTA,PE,DEPPASTOREURICO
+384,Deputado Pastor Gil,PL,MA,pastorgil_
+385,Deputado Pastor Sargento Isidório,AVANTE,BA,prisidorio
+386,Deputado Patrus Ananias,PT,MG,Patrus_Ananias
+387,Deputada Paula Belmonte,CIDADANIA,DF,paulambelmonte
+388,Deputado Paulão,PT,AL,paulaodopt
+389,Deputado Paulo Abi-ackel,PSDB,MG,pauloabiackel
+390,Deputado Paulo Azi,DEM,BA,PauloAzi
+391,Deputado Paulo Bengtson,PTB,PA,PauloBengtson
+392,Deputado Paulo Eduardo Martins,PSC,PR,PauloMartins10
+393,Deputado Paulo Freire Costa,PL,SP,DF_PauloFreire
+394,Deputado Paulo Ganime,NOVO,RJ,pauloganime
+395,Deputado Paulo Guedes,PT,MG,deppauloguedes
+396,Deputado Paulo Magalhães,PSD,BA,no-twitter
+397,Deputado Paulo Pereira Da Silva,SOLIDARIEDADE,SP,dep_paulinho
+398,Deputado Paulo Pimenta,PT,RS,DeputadoFederal
+399,Deputado Paulo Ramos,PDT,RJ,deppauloramosrj
+400,Deputado Paulo Teixeira,PT,SP,pauloteixeira13
+401,Deputado Pedro Augusto Bezerra,PTB,CE,PedroABezerra
+402,Deputado Pedro Augusto Palareti,PSD,RJ,no-twitter
+403,Deputado Pedro Cunha Lima,PSDB,PB,pedroocl
+404,Deputado Pedro Lucas Fernandes,PTB,MA,depPedroLucasF
+405,Deputado Pedro Lupion,DEM,PR,pedro_lupion
+406,Deputado Pedro Paulo,DEM,RJ,pedropaulo
+407,Deputado Pedro Uczai,PT,SC,uczai
+408,Deputado Pedro Vilela,PSDB,AL,no-twitter
+409,Deputado Pedro Westphalen,PP,RS,pedrowestphalen
+410,Deputada Perpétua Almeida,PCdoB,AC,perpetua_acre
+411,Deputado Pinheirinho,PP,MG,pinheirinhomg
+412,Deputada Policial Katia Sastre,PL,SP,KatiaSastre
+413,Deputado Pompeo De Mattos,PDT,RS,PompeodeMattos
+414,Deputado Pr. Marco Feliciano,REPUBLICANOS,SP,marcofeliciano
+415,Deputada Professora Dayane Pimentel,PSL,BA,deppimentel
+416,Deputada Professora Dorinha Seabra Rezende,DEM,TO,profdorinha
+417,Deputado Professor Alcides,PP,GO,profalcids
+418,Deputada Professora Marcivania,PCdoB,AP,profmarcivania
+419,Deputada Professora Rosa Neide,PT,MT,prof_rosaneide
+420,Deputado Professor Israel Batista,PV,DF,ProfIsrael
+421,Deputado Professor Joziel,PSL,RJ,professorjoziel
+422,Deputado Rafael Motta,PSB,RN,RafaelMottaRN
+423,Deputado Raimundo Costa,PL,BA,raimundocostaba
+424,Deputado Raul Henry,MDB,PE,RaulHenry
+425,Deputado Reginaldo Lopes,PT,MG,ReginaldoLopes
+426,Deputado Reinhold Stephanes Junior,PSD,PR,StephanesJr
+427,Deputada Rejane Dias,PT,PI,rejane_dias
+428,Deputada Renata Abreu,PODE,SP,no-twitter
+429,Deputado Renildo Calheiros,PCdoB,PE,renildo
+430,Deputado Ricardo Barros,PP,PR,RicardoBarrosPP
+431,Deputado Ricardo Da Karol,PSC,RJ,no-twitter
+432,Deputado Ricardo Guidi,PSD,SC,ricardozguidi
+433,Deputado Ricardo Izar,PP,SP,RicardoIzar
+434,Deputado Ricardo Silva,PSB,SP,RicardoSilvaRP
+435,Deputado Ricardo Teobaldo,PODE,PE,PSDBricardo45
+436,Deputado Robério Monteiro,PDT,CE,no-twitter
+437,Deputado Roberto Alves,REPUBLICANOS,SP,RobertoAlves_10
+438,Deputado Roberto De Lucena,PODE,SP,robertodelucena
+439,Deputado Rodrigo Agostinho,PSB,SP,rodrigoagost
+440,Deputado Rodrigo Coelho,PSB,SC,coelho_rodrigo
+441,Deputado Rodrigo De Castro,PSDB,MG,RodrigoCastro45
+442,Deputado Rodrigo Maia,DEM,RJ,RodrigoMaia
+443,Deputado Rogério Correia,PT,MG,RogerioCorreia_
+444,Deputado Rogério Peninha Mendonça,MDB,SC,no-twitter
+445,Deputado Roman,PATRIOTA,PR,no-twitter
+446,Deputado Ronaldo Carletto,PP,BA,ronaldocarletto
+447,Deputada Rosana Valle,PSB,SP,DepRosanaValle
+448,Deputada Rosangela Gomes,REPUBLICANOS,RJ,rosangelasgomes
+449,Deputada Rose Modesto,PSDB,MS,rosemodestoms
+450,Deputado Rubens Bueno,CIDADANIA,PR,23rubensbueno
+451,Deputado Rubens Otoni,PT,GO,RubensOtoni
+452,Deputado Rui Falcão,PT,SP,rfalcao13
+453,Deputado Ruy Carneiro,PSDB,PB,ruycarneiropb
+454,Deputada Sâmia Bomfim,PSOL,SP,samiabomfim
+455,Deputado Samuel Moreira,PSDB,SP,samuelmoreira
+456,Deputado Sanderson,PSL,RS,DepSanderson
+457,Deputado Santini,PTB,RS,dep_santini
+458,Deputado Sargento Fahur,PSD,PR,SargentoFAHUR
+459,Deputado Schiavinato,PP,PR,Schiavinato_
+460,Deputado Sebastião Oliveira,AVANTE,PE,SebaOliveirajr
+461,Deputado Sérgio Brito,PSD,BA,no-twitter
+462,Deputado Sergio Souza,MDB,PR,_sergiosouza
+463,Deputado Sergio Toledo,PL,AL,depsergiotoledo
+464,Deputado Severino Pessoa,REPUBLICANOS,AL,no-twitter
+465,Deputada Shéridan,PSDB,RR,DepSheridan
+466,Deputado Sidney Leite,PSD,AM,sidneyleite_
+467,Deputado Silas Câmara,REPUBLICANOS,AM,silascamara_
+468,Deputada Silvia Cristina,PDT,RO,silviacristinax
+469,Deputado Silvio Costa Filho,REPUBLICANOS,PE,Silvio_CFilho
+470,Deputada Soraya Santos,PL,RJ,sorayasantos
+471,Deputado Sóstenes Cavalcante,DEM,RJ,DepSostenes
+472,Deputado Stefano Aguiar,PSD,MG,depstefano
+473,Deputado Subtenente Gonzaga,PDT,MG,subgonzagamg
+474,Deputada Tabata Amaral,PDT,SP,tabataamaralsp
+475,Deputado Tadeu Alencar,PSB,PE,TadeuAlencarPE
+476,Deputada Talíria Petrone,PSOL,RJ,taliriapetrone
+477,Deputado Ted Conti,PSB,ES,tedcontioficial
+478,Deputada Tereza Nelma,PSDB,AL,terezanelmaal
+479,Deputado Tiago Dimas,SOLIDARIEDADE,TO,tiago_dimas
+480,Deputado Tiago Mitraud,NOVO,MG,TiagoMitraud
+481,Deputado Tiririca,PL,SP,tiriricanaweb
+482,Deputado Tito,AVANTE,BA,titodepfederal
+483,Deputado Toninho Wandscheer,PROS,PR,deputadotoninho
+484,Deputado Túlio Gadêlha,PDT,PE,tuliogadelha
+485,Deputado Uldurico Junior,PROS,BA,ulduricojr
+486,Deputado Vaidon Oliveira,PROS,CE,no-twitter
+487,Deputado Valdevan Noventa,PL,SE,ValdevanNoventa
+488,Deputado Valmir Assunção,PT,BA,DepValmir
+489,Deputado Vanderlei Macris,PSDB,SP,vanderleimacris
+490,Deputado Vander Loubet,PT,MS,vanderloubet
+491,Deputado Vavá Martins,REPUBLICANOS,PA,vavamartinspa
+492,Deputado Vermelho,PSD,PR,depvermelho
+493,Deputado Vicentinho,PT,SP,VICENTINHOPT
+494,Deputado Vicentinho Júnior,PL,TO,vicentinhojr
+495,Deputado Vilson Da Fetaemg,PSB,MG,Vilsondafetaemg
+496,Deputado Vinicius Carvalho,REPUBLICANOS,SP,falecomvinicius
+497,Deputado Vinicius Farah,MDB,RJ,Vinicius_Farah
+498,Deputado Vinicius Gurgel,PL,AP,no-twitter
+499,Deputado Vinicius Poit,NOVO,SP,ViniciusPoit
+500,Deputado Vitor Hugo,PSL,GO,MajorVitorHugo
+501,Deputado Vitor Lippi,PSDB,SP,DepVitorLippi
+502,Deputada Vivi Reis,PSOL,PA,vivireispsol
+503,Deputado Waldenor Pereira,PT,BA,waldenorpereira
+504,Deputado Walter Alves,MDB,RN,walteralvesrn
+505,Deputado Weliton Prado,PROS,MG,pradoweliton
+506,Deputado Wellington Roberto,PL,PB,wr22
+507,Deputado Wilson Santiago,PTB,PB,WilsonSantiago_
+508,Deputado Wolney Queiroz,PDT,PE,WolneyQueirozM
+509,Deputado Zeca Dirceu,PT,PR,zeca_dirceu
+510,Deputado Zé Carlos,PT,MA,Dep_ZeCarlosPT
+511,Deputado Zé Neto,PT,BA,depzeneto
+512,Deputado Zé Silva,SOLIDARIEDADE,MG,ZeSilva_
+513,Deputado Zé Vitor,PL,MG,zevitor_mg
